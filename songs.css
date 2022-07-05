@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family:"Verdana", sans-serif;
+  background-color: #cccccc;
+}
+
+h1{
+    margin-left: 35px;
+}
+
+p{
+  padding-top: 140px;
+}
+
+.main {
+  width: 90%;
+  margin-left: 60px;
+}
+
+
+.song1{
+display: flex;
+}
+.song2{
+display: flex;
+}
+.song3{
+display: flex;z
+}

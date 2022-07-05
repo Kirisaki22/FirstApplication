@@ -1,0 +1,12 @@
+body  {
+  font-family:"Verdana", sans-serif;
+  background-color: #cccccc;
+}
+img{
+  width:700px;
+  height:500px;
+}
+h1{
+  text-align: center;
+  color: #5395ab;
+}
